@@ -1,0 +1,47 @@
+.contenedor{
+    border: 2px solid black;
+    background-color: white;
+    height: 600px;
+    width: 600px;
+    display: inline-flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 400px;
+}
+
+h1{
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 75px;
+}
+
+.rojo{
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    background-color: red;
+    position: inline-flex;
+    right: 0px;
+}
+
+.azul{
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    background-color: blue;
+    position: inline-flex;
+    right: 0px;
+    top: 200px;
+}
+
+.verde{
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    background-color: green;
+    position: inline-flex;
+    right: 0px;
+    top: 400px;
+}
